@@ -65,18 +65,6 @@ To get started with the **Bistro Boss Server**, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bistro-boss-server.git
+git clone https://github.com/aburayhan-bpi/bistro-boss-server.git
 cd bistro-boss-server
 
-### 2. Install dependencies:
-
-```bash
-npm i
-
-### 3. Create a .env file in the root of the project and add your environment variables like MongoDB URI, JWT secret key, Stripe keys, Mailgun credentials, etc.
-
-### 4. Run the server:
-
-```bash
-npm start or nodemon index.js
-The server may start on the port, http://localhost:5000.
